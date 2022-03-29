@@ -1,0 +1,35 @@
+Version: 1
+Name: mods v0.0.1
+Mods:
+- Id: brrainz.harmony
+  Name: Harmony
+- Id: ludeon.rimworld
+  Name: Core
+- Id: unlimitedhugs.hugslib
+  Name: HugsLib
+- Id: lollipop.openworld
+  Name: Open World
+- Id: spdskatr.projectrimfactory
+  Name: Project RimFactory Revived
+- Id: edb.preparecarefully
+  Name: EdB Prepare Carefully
+- Id: ogre.ogrestack
+  Name: OgreStack
+- Id: rimfridge.kv.rw
+  Name: '[KV] RimFridge'
+- Id: syrchalis.setupcamp
+  Name: '[SYR] Set Up Camp'
+- Id: lwm.deepstorage
+  Name: LWM's Deep Storage
+- Id: fluffy.modmanager
+  Name: Mod Manager
+- Id: m00nl1ght.geologicallandforms
+  Name: Geological Landforms
+- Id: murmur.walllight
+  Name: Wall Light
+- Id: unlimitedhugs.mapreroll
+  Name: Map Reroll
+- Id: unon.noburnmetal
+  Name: No Burn Metal
+- Id: tidal.morevanilla.textures
+  Name: More Vanilla Textures
